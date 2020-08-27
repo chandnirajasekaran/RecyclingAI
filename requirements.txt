@@ -1,0 +1,7 @@
+PIL
+streamlit
+flask
+numpy
+opencv-python
+scikit-learn
+tensorflow
